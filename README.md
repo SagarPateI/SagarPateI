@@ -11,6 +11,9 @@ JAVA || C# || C || VS Code || VS 2019
 - 🤔 I’m looking for help with learning cloud services
 - 📫 How to reach me: [**Shoot me an email!**](mailto:sdp2391@gmail.com)
 - 😄 Pronouns: he/him
+
+#![graph](https://raw.githubusercontent.com/SagarPateI/SagarPateI/main/images/wakatime_weekly_project_stats.svg)
+
 * * *
 **Linux Debian Recommendations:**
 
