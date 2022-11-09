@@ -3,7 +3,7 @@
 Welcome to my page! My name is Sagar 😁 I am an aspiring software engineer in Atlanta, Georgia 🍑
 * * *
 **Things I Code With:**
-JAVA || C# || VS Code || VS 2019 
+JAVA || C# || C || VS Code || VS 2019 
 
 - 🔭 I’m currently working on [Gastropoda](https://github.com/aimbesi1/gastropoda), an open source Unity game set to release in December 2023! 
 - 🌱 I’m currently learning to code in C, C++, and C#.
