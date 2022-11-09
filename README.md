@@ -9,7 +9,7 @@ JAVA || C# || VS Code || VS 2019
 - 🌱 I’m currently learning to code in C, C++, and C#.
 - 👯 I’m looking to collaborate on a cybersecurity/cloud project of some sort.
 - 🤔 I’m looking for help with learning cloud services
-- 📫 How to reach me: [**Shoot me an email!**](sdp2391@gmail.com)
+- 📫 How to reach me: [**Shoot me an email!**](mailto: sdp2391@gmail.com)
 - 😄 Pronouns: he/him
 * * *
 **Linux Debian Recommendations:**
