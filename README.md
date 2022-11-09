@@ -14,4 +14,4 @@ JAVA || C# || VS Code || VS 2019
 * * *
 **Linux Debian Recommendations:**
 
-🟩 __Manjaro With KDE Plasma__ (for most personal computers) || 🐦 __Lubuntu__ (for low end 24/7 machines) 🔵 __Pop!\_OS__ (for machines with high end GPUs) 🦌 __Ubuntu Server Edition__ (For everything else)
+🟩 __Manjaro With KDE Plasma__ (for most personal computers) || 🐦 __Lubuntu__ (for low end 24/7 machines) || 🔵 __Pop!\_OS__ (for machines with high end GPUs) || 🦌 __Ubuntu Server Edition__ (For everything else)
