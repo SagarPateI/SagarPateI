@@ -1,0 +1,16 @@
+name: Wakatime Charts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-charts:
+    name: Update wakatime stats charts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: dvjn/wakatime-charts@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.9698b663-7a68-485b-9900-c2344dba9ed0 }}
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
