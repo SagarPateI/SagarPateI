@@ -18,3 +18,5 @@ JAVA || C# || C || VS Code || VS 2019
 **Linux Debian Recommendations:**
 
 🟩 [__Manjaro With KDE Plasma__](https://manjaro.org/download/) (for most personal computers) || 🐦 [__Lubuntu__](https://lubuntu.me/downloads/) (for low-end 24/7 machines) || 🔵 [__Pop!\_OS__](https://pop.system76.com/) (for machines with high-end GPUs) || 🦌 [__Ubuntu Server Edition__](https://ubuntu.com/download/server) (for everything else)
+* * *
+![wakatime badge](https://wakatime.com/badge/user/a797c473-7353-46d1-a418-d6fdb761bbb6.svg)
