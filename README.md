@@ -12,7 +12,7 @@ JAVA || C# || C || VS Code || VS 2019
 - 📫 How to reach me: [**Shoot me an email!**](mailto:sdp2391@gmail.com)
 - 😄 Pronouns: he/him
 
-| [![Weekly Language Stats](https://raw.githubusercontent.com/SagarPateI/SagarPateI/main/images/wakatime_weekly_language_stats.svg)](https://wakatime.com/@a797c473-7353-46d1-a418-d6fdb761bbb6) | [![Weekly Project Stats](https://raw.githubusercontent.com/SagarPateI/SagarPateI/main/images/wakatime_weekly_project_stats.svg)](https://wakatime.com/@a797c473-7353-46d1-a418-d6fdb761bbb6) |
+| [![Weekly Language Stats](https://raw.githubusercontent.com/SagarPateI/SagarPateI/main/images/wakatime_weekly_language_stats.svg)](https://github.com/SagarPateI/SagarPateI) | [![Weekly Project Stats](https://raw.githubusercontent.com/SagarPateI/SagarPateI/main/images/wakatime_weekly_project_stats.svg)](https://github.com/SagarPateI/SagarPateI) |
 | - | - |
 * * *
 **Linux Debian Recommendations:**
