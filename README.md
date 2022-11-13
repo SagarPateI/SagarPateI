@@ -14,8 +14,8 @@ Welcome to my page! My name is Sagar 😁 I am an aspiring software engineer in 
 - 😄 Pronouns: he/him
 
 <p float="middle">
-  <img src="https://raw.githubusercontent.com/SagarPateI/SagarPateI/main/images/wakatime_weekly_language_stats.svg" width="500" />
-  <img src="https://raw.githubusercontent.com/SagarPateI/SagarPateI/main/images/wakatime_weekly_project_stats.svg" width="500" /> 
+  <img src="https://raw.githubusercontent.com/SagarPateI/SagarPateI/main/images/wakatime_weekly_language_stats.svg" width="450" />
+  <img src="https://raw.githubusercontent.com/SagarPateI/SagarPateI/main/images/wakatime_weekly_project_stats.svg" width="450" /> 
 </p>
 
 * * *
