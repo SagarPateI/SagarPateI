@@ -13,8 +13,11 @@ Welcome to my page! My name is Sagar 😁 I am an aspiring software engineer in 
 - 📫 How to reach me: [**Shoot me an email!**](mailto:sdp2391@gmail.com)
 - 😄 Pronouns: he/him
 
-| [![Weekly Language Stats](https://raw.githubusercontent.com/SagarPateI/SagarPateI/main/images/wakatime_weekly_language_stats.svg)](https://github.com/SagarPateI/SagarPateI) | [![Weekly Project Stats](https://raw.githubusercontent.com/SagarPateI/SagarPateI/main/images/wakatime_weekly_project_stats.svg)](https://github.com/SagarPateI/SagarPateI) |
-| - | - |
+<p float="middle">
+  <img src="https://raw.githubusercontent.com/SagarPateI/SagarPateI/main/images/wakatime_weekly_language_stats.svg" width="500" />
+  <img src="https://raw.githubusercontent.com/SagarPateI/SagarPateI/main/images/wakatime_weekly_project_stats.svg" width="500" /> 
+</p>
+
 * * *
 **Linux Debian Recommendations:**
 
