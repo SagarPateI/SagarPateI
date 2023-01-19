@@ -4,10 +4,10 @@ Welcome to my page! My name is Sagar 😁 I am an aspiring software engineer in 
 * * *
 **Things I Code With:** 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://learn.microsoft.com/en-us/visualstudio/releases/2019/release-notes)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://learn.microsoft.com/en-us/visualstudio/releases/2019/release-notes) [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-- 🔭 I’m currently working on [Gastropoda](https://github.com/aimbesi1/gastropoda), an open source Unity game set to release in December 2022! 
-- 🌱 I’m currently learning to code in C, C++, and C#.
+- 🔭 I’m currently refining my math and programming skills.
+- 🌱 In the fall of 2022 I focused on learning to code in C, C++, and C#. Now I'm focusing on learning Python and processing data in Jupyter Notebook.
 - 👯 I’m looking to collaborate on a cybersecurity/cloud project
 - 🤔 I’m looking for help with learning cloud services
 - 📫 How to reach me: [**Shoot me an email!**](mailto:sdp2391@gmail.com)
@@ -18,6 +18,9 @@ Welcome to my page! My name is Sagar 😁 I am an aspiring software engineer in 
   <a href="https://github.com/SagarPateI"><img src="https://raw.githubusercontent.com/SagarPateI/SagarPateI/main/images/wakatime_weekly_project_stats.svg" width="421" /> 
 </p>
 
+* * *
+### Projects: 
+- [Gastropoda](https://github.com/aimbesi1/gastropoda), an open source Unity game released in December 2022
 * * *
 **Linux Debian Recommendations:**
 
