@@ -22,7 +22,7 @@ Welcome to my page! My name is Sagar 😁 I am an aspiring software engineer in 
 ### Projects: 
 - [Gastropoda](https://github.com/aimbesi1/gastropoda), an open source Unity game released in December 2022
 - [What's Yours is Mime](https://github.com/SagarPateI/WYiM), an open source Unity game set to release Spring 2023
-- [The ATL Times](https://github.com/SagarPateI/ATL-News-Project), an Atlanta-based news site with purely fictional articles written by an AI. Inspired by the Atlanta Journal Constitution and the New York Times, this website is set to release Spring 2023 
+- [GSU Share](https://github.com/SagarPateI/GSU-Share), an Atlanta-based user-submitted dynamic website with user-submitted articles sharing free learning resources on campus. Inspired by the Buzzfeed Community and forumn websites like Reddit, this website is set to release Spring 2023 
 * * *
 **Linux Debian Recommendations:**
 
