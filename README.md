@@ -20,9 +20,10 @@ Welcome to my page! My name is Sagar 😁 I am an aspiring software engineer in 
 
 * * *
 ### Projects: 
+- [GSU Share](https://github.com/SagarPateI/GSU-Share), an Atlanta-based user-submitted dynamic website with user-submitted articles sharing free learning resources on campus. Inspired by the Buzzfeed Community and forumn websites like Reddit, this website is set to release Spring 2023
+- [LetterSense](https://github.com/SagarPateI/LetterSense) LetterSense is a deep learning AI project that trains a convolutional neural network to recognize letters and numbers, enabling visually impaired people to read text. Currently, it is only a model.
 - [Gastropoda](https://github.com/aimbesi1/gastropoda), an open source Unity game released in December 2022
 - [What's Yours is Mime](https://github.com/SagarPateI/WYiM), an open source Unity game set to release Spring 2023
-- [GSU Share](https://github.com/SagarPateI/GSU-Share), an Atlanta-based user-submitted dynamic website with user-submitted articles sharing free learning resources on campus. Inspired by the Buzzfeed Community and forumn websites like Reddit, this website is set to release Spring 2023 
 * * *
 **Linux Debian Recommendations:**
 
