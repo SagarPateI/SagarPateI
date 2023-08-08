@@ -20,7 +20,7 @@ Welcome to my page! My name is Sagar 😁 I am an aspiring software engineer in 
 
 * * *
 ### Projects: 
-- [FileSense](https://github.com/SagarPateI/FileSense)
+- [FileSense](https://github.com/SagarPateI/FileSense), an open-source Android File Manager app designed for easy file management, built using Java and Android Studio.
 - [Moon Lander V3](https://github.com/SagarPateI/MoonlanderV3/tree/main), an interactive 3D simulation developed using React, three.js, @react-three/fiber, and @react-three/cannon libraries. Users can pilot a moon lander using the WASD keys and a space bar, aiming to provide a realistic experience of controlling a lunar landing.
 - [GSU Share](https://github.com/SagarPateI/GSU-Share), an Atlanta-based user-submitted dynamic website with user-submitted articles sharing free learning resources on campus. Inspired by the Buzzfeed Community and forumn websites like Reddit, this website is set to release Spring 2023
 - [LetterSense](https://github.com/SagarPateI/LetterSense), LetterSense is a deep learning AI project that trains a convolutional neural network to recognize letters and numbers, enabling visually impaired people to read text. Currently, it is only a model.
