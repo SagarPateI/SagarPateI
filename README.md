@@ -20,6 +20,8 @@ Welcome to my page! My name is Sagar 😁 I am an aspiring software engineer in 
 
 * * *
 ### Projects: 
+- [FileSense](https://github.com/SagarPateI/FileSense)
+- [Moon Lander V3](https://github.com/SagarPateI/MoonlanderV3/tree/main)
 - [GSU Share](https://github.com/SagarPateI/GSU-Share), an Atlanta-based user-submitted dynamic website with user-submitted articles sharing free learning resources on campus. Inspired by the Buzzfeed Community and forumn websites like Reddit, this website is set to release Spring 2023
 - [LetterSense](https://github.com/SagarPateI/LetterSense), LetterSense is a deep learning AI project that trains a convolutional neural network to recognize letters and numbers, enabling visually impaired people to read text. Currently, it is only a model.
 - [Starbucks Profit Margins](https://github.com/SagarPateI/Starbucks-Profit-Margins), a machine learning project where a Starbucks conditions and stock information is used to train a model which will provide shareholders with a recommendation whether or not shares of Starbucks are currently or in the future going to be worth keeping.
