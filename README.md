@@ -37,6 +37,9 @@ Welcome to my page! My name is Sagar 😁 I am an aspiring software engineer in 
 ### Favorite IDE's
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://learn.microsoft.com/en-us/visualstudio/releases/2019/release-notes)
 
+### Other Software I'm Experienced in:
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) Solidworks Suite, AutoDesk Inventor/Fusion360, Cura, Macrium Reflect (Data Imaging/Recovery Software), Unity Engine, Unreal Engine, Virtualbox, Handbrake (Transcoding), 
+
 ***
 
 **Linux Debian Recommendations:**
