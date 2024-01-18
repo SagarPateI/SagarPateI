@@ -1,10 +1,10 @@
 ### 👋 Hello there!
 * * *
-Welcome to my page! My name is Sagar 😁 I am an aspiring software engineer in Atlanta, Georgia 🍑
+Welcome to my page! My name is Sagar 😁 I am a software engineer in Atlanta, Georgia 🍑
 * * *
 
 - 🔭 I’m currently refining my math and programming skills.
-- 🌱 In the fall of 2022 I focused on learning to code in C, C++, and C#. Then, in Spring of 2023, I focused on learning Python and processing data in Jupyter Notebook. Now, in Fall of 2023, I am focusing on creating full-stack applications, refining my coding skills, and looking for CS experience opportunities. I'm also focusing on gameplay programming as a hobby and potential opportunities in that field.
+- 🌱 In the fall of 2022 I focused on learning to code in C, C++, and C#. Then, in Spring of 2023, I focused on learning Python and processing data in Jupyter Notebook. In Fall of 2023, I focused on creating full-stack applications, refining my coding skills, and looking for CS experience opportunities. I also focused on gameplay programming as a hobby and potential opportunities in that field.
 - 👯 I’m looking to collaborate on a cybersecurity/cloud project
 - 🤔 I’m looking for help with learning cloud services
 - 📫 How to reach me: [**Shoot me an email!**](mailto:sdp2391@gmail.com)
